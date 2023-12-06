@@ -1,1 +1,1 @@
-This script prints the full path and current working directory
+This script list all files on current directory
