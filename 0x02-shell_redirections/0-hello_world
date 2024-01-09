@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "Hello, world"
+=======
+echo "Hellow, world"
+>>>>>>> refs/remotes/origin/master
